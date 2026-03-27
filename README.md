@@ -22,6 +22,7 @@ This project solves that by introducing a **self-operating QA system powered by 
 
 ## 🧠 Architecture
 
+```text
 UserProxy (Test Runner)
         ↓
 Data Architect → Generates CSV test data
@@ -31,6 +32,7 @@ SDET Expert → Writes pytest script
 Test Runner → Executes tests
         ↓
 (Self-Healing Loop if errors)
+```
 
 ## 🤖 Agents
 
