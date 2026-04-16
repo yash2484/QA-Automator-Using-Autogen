@@ -1,4 +1,4 @@
-# 🚀 QA Testing Automation Framework (AutoGen + RAG + ChromaDB)
+# QA Testing Automation Framework (AutoGen + RAG + ChromaDB)
 
 An **autonomous, multi-agent QA testing framework** that automates the entire testing lifecycle for a **User Registration API** using:
 
